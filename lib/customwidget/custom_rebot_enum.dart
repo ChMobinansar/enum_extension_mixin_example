@@ -1,0 +1,4 @@
+enum RobotType {
+  worker,
+  thinker,
+}
